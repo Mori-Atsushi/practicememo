@@ -7,3 +7,6 @@
   * Ruby on Rails チュートリアル
     * [https://github.com/Mori-Atsushi/hello_app](https://github.com/Mori-Atsushi/hello_app)
     * 3.4.3まで
+* 2017/5/10
+  * Ruby on Rails チュートリアル
+  * 4.3.4まで
